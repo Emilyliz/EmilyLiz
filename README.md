@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm a Research Associate at [Innovations for Poverty Actio
 ## 🧪 Recent Projects
 
 - **Leaders in Action (IPA)** – Led a large-scale RCT on community interventions to reduce gender-based violence in 9 regions of Peru (10,000+ participants).  
-  📄 [Baseline Results Report (PDF)](https://cdn.www.gob.pe/uploads/document/file/6918612/5972698-3-resultado-de-linea-de-base-de-la-evaluacion-de-impacto-de-la-intervencion-comunitaria-con-lideres-y-lideresas-de-organizaciones-sociales.pdf?v=1725998606)
+  📄 [Read about the project](https://poverty-action.org/study/training-local-leaders-prevent-gender-based-violence-peru)
 
 - **Real Man Challenge (IPA)** – Designed and implemented data collection in pandemic conditions using digital and phone-based surveys.  
   📰 [Gov.pe Article](https://www.gob.pe/institucion/warmi%C3%B1an/noticias/1014145-mimp-presento-resultados-de-estudio-hablemos-entre-patas-contra-la-violencia-de-generoy)
