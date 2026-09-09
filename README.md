@@ -8,10 +8,10 @@ I'm currently pursuing graduate study in **data science for public policy**, to 
 
 ### What I work on
 
-- 🧭 **Design & formulation** — turning evidence and data into program design
-- 🛰️ **Implementation** — sampling design, geospatial data, and large-scale fieldwork
+- 🧭 **Design & formulation** — fieldwork, focus groups, and qualitative analysis to pilot and inform program design
+- 🛰️ **Implementation** — sampling design and fieldwork coordination, with quality monitoring to supervise protocols and data collection
 - 🧪 **Evaluation** — RCTs and quasi-experimental impact evaluations
-- 📈 **Monitoring & scale-up** — data pipelines, dashboards, and reporting that inform policy decisions
+- 📈 **Scale-up** — turning validated findings into policy recommendations and programs ready to scale
 
 ### Toolbox
 
